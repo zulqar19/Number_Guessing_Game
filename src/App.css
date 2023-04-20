@@ -1,0 +1,8 @@
+.App{
+  width: 70vw;
+}
+.App header h3 {
+  background-color: blueviolet;
+  font-size: 1.4rem;
+  color: aliceblue;
+}

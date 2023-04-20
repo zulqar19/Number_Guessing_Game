@@ -1,0 +1,29 @@
+.container{
+    background-color: aqua;
+    height: 400px;
+    color: aliceblue;
+}
+
+#input{
+    width: 35vw;
+    height: 5vw;
+    font-size: 1rem;
+    text-align: center
+}
+#btn,#btn2{
+    width: 25vw;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: yellowgreen;
+    color: black;
+}
+.top{
+    cursor: not-allowed;
+}
+.color{
+    color: red;
+}
+.color2{
+    color: green;
+}
